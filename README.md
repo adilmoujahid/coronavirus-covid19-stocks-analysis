@@ -3,7 +3,7 @@
 
 
 <div style="display:block;margin:auto;height:80%;width:80%">
-  <img src="/images/data_flow">
+  <img src="images/data_flow">
 </div>
 
 # Visit my Blog : http://adilmoujahid.com
